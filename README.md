@@ -16,7 +16,7 @@ Expo • React Native • TypeScript
 **Tools & Workflow**  
 Git • GitHub • VS Code • Postman
 
-**Currently Exploring**
+**Currently Exploring**  
 PostgreSQL • System Design • Software Architecture
 
 **Languages**  
