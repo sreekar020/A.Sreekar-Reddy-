@@ -1,32 +1,30 @@
 # Hey there! 👋
 
-I'm a 4th year B.Tech CSE student at HITAM, Hyderabad and a self-taught developer who focus on turning ideas and requirements into practical, user-friendly products.
+I'm a 4th-year B.Tech CSE student at HITAM, Hyderabad, and a self-taught developer who focuses on turning ideas and requirements into practical, user-friendly products.
 
-I care deeply about design and I enjoy turning vague ideas into working systems that people actually use.
+I care deeply about design and enjoy turning vague ideas into working systems that people actually use.
 
----
 
-**Tech Stack**
-**Languages & Frameworks**
-TypeScript • React Native • Node.js
-React •Expo • Tailwind CSS
+
+**Tech Stack**  
+TypeScript • React Native • React • Node.js • Expo • Tailwind CSS  
 PostgreSQL • Firebase • REST APIs • MySQL
 
-**Mobile & Cross-Platform (Familiar)**
-Expo • React Native • Type Script
+**Mobile & Cross-Platform (Familiar)**  
+Expo • React Native • TypeScript
 
-**Tools & Workflow**
+**Tools & Workflow**  
 Git • GitHub • VS Code • Postman
 
-Currently Exploring
-PostgreSQL • System Design • “How to actually finish projects”
+**Currently Exploring**  
+PostgreSQL • System Design • How to Actually Finish Projects
 
-**Languages**
-Typescript • python • Java 
+**Languages**  
+TypeScript • Python • Java
 
-**Connect with me**
-* **Email:** sreekarreddy020@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/a-sreekar-reddy-483b81318/
+**Connect with Me**  
+Email: sreekarreddy020@gmail.com  
+LinkedIn: https://www.linkedin.com/in/a-sreekar-reddy-483b81318/
 
 
 Still in college. Still learning. Still shipping.
