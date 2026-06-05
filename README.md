@@ -16,8 +16,8 @@ Expo • React Native • TypeScript
 **Tools & Workflow**  
 Git • GitHub • VS Code • Postman
 
-**Currently Exploring**  
-PostgreSQL • System Design • How to Actually Finish Projects
+Currently Exploring
+PostgreSQL • System Design • Software Architecture
 
 **Languages**  
 TypeScript • Python • Java
