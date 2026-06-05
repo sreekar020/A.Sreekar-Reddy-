@@ -24,8 +24,7 @@ TypeScript • Python • Java
 
 **Connect with Me**  
 Email: sreekarreddy020@gmail.com  
-LinkedIn: https://www.linkedin.com/in/a-sreekar-reddy-483b81318/
-
+LinkedIn: [sreekarreddy](https://linkedin.com/in/your-profile)
 
 Still in college. Still learning. Still shipping.
 
