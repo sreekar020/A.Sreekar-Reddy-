@@ -7,7 +7,7 @@ I care deeply about design and enjoy turning vague ideas into working systems th
 
 
 **Tech Stack**  
-TypeScript • React Native • React • Node.js • Expo • Tailwind CSS  
+TypeScript • React Native • Expo • Tailwind CSS  
 PostgreSQL • Firebase • REST APIs • MySQL
 
 **Mobile & Cross-Platform (Familiar)**  
@@ -20,7 +20,7 @@ Git • GitHub • VS Code • Postman
 PostgreSQL • System Design • Software Architecture
 
 **Languages**  
-TypeScript • Python • Java
+TypeScript • Python
 
 **Connect with Me**  
 Email: sreekarreddy020@gmail.com  
